@@ -40,4 +40,3 @@ Each lab is organized into its own folder with related notebooks, data, and expl
 
 I will also share my progress on LinkedIn throughout this training. Stay tuned! 🚀
 
-GitHub: [https://github.com/your-github-username/dp-700-microsoft-fabric-labs](https://github.com/ismailuzum/dp-700-microsoft-fabric-labs)
